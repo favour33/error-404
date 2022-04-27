@@ -1,5 +1,8 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
@@ -13,8 +16,48 @@ body {
 
 .content {
   border: solid 2px black;
+  padding-left: 20px;
 }
 
+.image p {
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.image img {
+  width: 286px;
+  height: 220px;
+  margin: auto;
+  display: block;
+}
+
+.content .bad-news {
+  color: #333333;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 71px;
+}
+
+.content .more-info {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.content button {
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #333333;
+  width: 216px;
+  height: 68px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: none;
+}
 @media screen and (min-width: 760px) {
   .container {
     grid-template-columns: 1fr 1fr;
