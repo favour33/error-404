@@ -11,10 +11,10 @@
     <a href="https://fn-error-404.netlify.app">
       Live Demo
     </a>
-    <span> | </span>
+    <!-- <span> | </span>
     <a href="https://github.com/favour33/error-404">
       Code 
-    </a>
+    </a> -->
     <!-- <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
