@@ -16,7 +16,7 @@ body {
 
 .image p {
   font-size: 24px;
-  margin-left: 20px;
+  margin-left: 10%;
 }
 
 .image img {
@@ -32,6 +32,7 @@ body {
   font-weight: 700;
   font-size: 48px;
   line-height: 71px;
+  width: 350px;
 }
 
 .content .more-info {
@@ -39,6 +40,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 27px;
+  width: 328px;
 }
 
 .content button {
@@ -65,5 +67,6 @@ body {
 
   .content .bad-news {
     margin-top: 150px;
+    width: 568px;
   }
 }
