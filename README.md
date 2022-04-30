@@ -8,7 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://fn-error-404.netlify.app">
+    <a href="https://fn-error-404.netlify.app"
+    target="_blank">
       Live Demo
     </a>
     <!-- <span> | </span>
@@ -36,8 +37,16 @@
 
 ## Overview
 
+<!--
+<br /> -->
+
 <br />
 <img src="image.png">
+
+<!--
+![](image.png) -->
+
+<!-- <img src="image.png" alt="screenshot of my work"> -->
 
 <!-- - Where can I see your demo?
   You can see live demo at: -->
@@ -53,19 +62,19 @@
 <br />
 <br />
 
-### Where can I see a live demo? <a href="https://fn-error-404.netlify.app"> Error 404 </a>
+### Where can I see a live demo? <a href="https://fn-error-404.netlify.app" target="_blank" > Error 404 </a>
 
 <br />
 
 ### What was my experience? <br />
 
-This is a was a great challenge as i had to research a lot and really push myself.
+This is a was a great challenge as this was the first time when i had to follow a design rather than creating a website with my own Design.
 
 <br />
 
 ### What have i learned/improved?<br />
 
-Following Design guides to replicate a website. CSS Grid.
+Improved my CSS grid skills.
 
 <br />
 
