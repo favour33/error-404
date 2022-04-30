@@ -38,7 +38,8 @@
 ## Overview
 
 <br />
-<img src="image.png">
+
+<img src="image.png" alt="screenshot of my work">
 
 <!-- - Where can I see your demo?
   You can see live demo at: -->
