@@ -38,7 +38,7 @@
 ## Overview
 
 <br />
-<img src="image3.png">
+<img src="image.png">
 
 ### Where can I see a live demo? <a href="https://fn-error-404.netlify.app" target="_blank" > Error 404 </a>
 
