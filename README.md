@@ -37,30 +37,8 @@
 
 ## Overview
 
-<!--
-<br /> -->
-
 <br />
-<img src="image.png">
-
-<!--
-![](image.png) -->
-
-<!-- <img src="image.png" alt="screenshot of my work"> -->
-
-<!-- - Where can I see your demo?
-  You can see live demo at: -->
-<!--
-- What was your experience?
-  I had a good experience -->
-<!--
-- What have you learned/improved?
-  Learned gg -->
-
-<!-- - Your wisdom? :)
-  None -->
-<br />
-<br />
+<img src="image3.png">
 
 ### Where can I see a live demo? <a href="https://fn-error-404.netlify.app" target="_blank" > Error 404 </a>
 
